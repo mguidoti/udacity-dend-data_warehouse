@@ -1,6 +1,6 @@
 <p align="center"><a href="https://www.udacity.com/course/data-engineer-nanodegree--nd027">Udacity Data Engineer Nanodegree</a></p>
 
-# Project 03: Project Datasets
+# Project 03: Data Warehouse
 
 The information in the Description and Datasets subsections are copied/pasted from the Udacity's project page. In order to highlight that, I'm adding them as citations blocks in this README.
 
