@@ -163,3 +163,7 @@ sql_queries.py......Jupyter Notebook containing all the code
 First you need to add your AWS credentials and Redshift Cluster and IAM Role information into the `dwh.cfg` file. Then, you have to run the `create_tables.py`, which will create the staging, dimensions and fact tables, and finally, run the `etl.py`, which will load the data from the S3 bucket to the staging tables in the Redshift Cluster, and then insert the right information into the dimensions and fact tables.
 Plus, make sure to have all dependencies correctly installed. Please, refer to the small note regarging the `requirements.txt` file above.
 
+
+## Disclaimer
+This is a study repo, to fulfil one of the project-requirements of the [Udacity Data Engineer Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027), submitted on June/2021. This has no intention to continue to be developed, and the git commit messages follow the [Udacity Git Style Guide](https://udacity.github.io/git-styleguide/), with the addition of the keyword `file` (used when moving non-coding files).
+
